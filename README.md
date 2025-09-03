@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Yuvraj Kathad  
 
 🎓 **Education**  
-- 4TH Year B.Tech in Mathematics and Computing at **Dhirubhai Ambani University (DAU) (Fromerly DAIICT)**.  
+- 4th Year B.Tech in Mathematics and Computing at **Dhirubhai Ambani University (DAU) (Fromerly DAIICT)**.  
 - Strong foundation in **Algorithms, Data Structures, and Web Development**.  
 
 ---
